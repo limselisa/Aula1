@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula1</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_btn_editoras">Editoras</string>
+    <string name="lbl_btn_todos">Todos os títulos</string>
+    <string name="lbl_btn_ultimos">Ultimos adicionados</string>
+    <string name="title_activity_editoras">Editoras</string>
+    <string name="title_activity_titulos_da_editora">TitulosDaEditora</string>
+    <string name="title_activity_volumes_do_titulo">VolumesDoTitulo</string>
+    <string name="hint_txt_pesquisa_editora">Nome da editora</string>
+</resources>
